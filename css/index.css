@@ -20,7 +20,7 @@ header {
     background-image: url("../img/ban.jpg");
     background-position: center center;
     background-size: cover;
-    height: 500px;
+    height: 700px;
     display: flex;
     align-items: center;
     justify-content: flex-start;
@@ -59,7 +59,7 @@ nav ul {
 
 
 
-aside img {
+aside  {
      background-position: center center;
         border: 1px solid #55c5e9; /* Рамка вокруг фотографии */
     padding: 10px; /* Расстояние от картинки до рамки */
